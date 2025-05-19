@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55142022116",
+    "project_id": "tbs-smarthub",
+    "storage_bucket": "tbs-smarthub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55142022116:android:4a3f07b735ebe9e15a25f1",
+        "android_client_info": {
+          "package_name": "com.example.+-tbssmarthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuE8HwqC5r2wcbx9mND6YH950NF-d-CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
